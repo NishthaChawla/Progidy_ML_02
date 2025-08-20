@@ -7,13 +7,13 @@ I recently worked on a project analyzing customer purchase data to segment them 
 
 Key Insights:
 
-🔹 Customer Clusters: Segmented customers into distinct groups, such as high spenders, budget-conscious shoppers, and average buyers.
-🔹 Spending Patterns: Discovered how spending scores and annual income influence purchase behavior.
-🔹 Optimal Clusters: Applied the Elbow method to determine the ideal number of clusters, enhancing segmentation accuracy.
-🔹 Strategic Applications: These insights can support personalized promotions and improve customer engagement.
+- Customer Clusters: Segmented customers into distinct groups, such as high spenders, budget-conscious shoppers, and average buyers.
+- Spending Patterns: Discovered how spending scores and annual income influence purchase behavior.
+- Optimal Clusters: Applied the Elbow method to determine the ideal number of clusters, enhancing segmentation accuracy.
+- Strategic Applications: These insights can support personalized promotions and improve customer engagement.
 
 Visualization Techniques:
-🔹 Scatter Plots to illustrate customer clusters based on spending scores and annual income.
-🔹 Elbow Method Plot to visualize the within-cluster sum of squares (WCSS) and find the optimal cluster count.
+- Scatter Plots to illustrate customer clusters based on spending scores and annual income.
+- Elbow Method Plot to visualize the within-cluster sum of squares (WCSS) and find the optimal cluster count.
 
 This project showcases the ability of machine learning algorithms to transform raw data into actionable business insights.
